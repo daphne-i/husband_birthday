@@ -1200,7 +1200,7 @@ export default function App() {
                   e.currentTarget.src = FALLBACK_PHOTOS.scratch;
                 }}
                 alt="Keepsake"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-top"
               />
             </div>
             <div className="w-full bg-[#F3EDF9] border-2 border-dashed border-[#D96B8A] rounded-xl px-3 py-2.5 text-center">
