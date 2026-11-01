@@ -1,0 +1,24 @@
+{
+  "name": "Nov 14 · Birthday Escape Card",
+  "short_name": "Nov 14",
+  "description": "A special 5-stage birthday puzzle card for Mama.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E2D6F0",
+  "theme_color": "#D96B8A",
+  "icons": [
+    {
+      "src": "/app-icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/app-icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "any maskable"
+    }
+  ]
+}
